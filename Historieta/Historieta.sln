@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29201.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Historieta", "Historieta\Historieta.csproj", "{0BA061D0-DCCD-466A-8CC3-E501E01A09FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BA061D0-DCCD-466A-8CC3-E501E01A09FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BA061D0-DCCD-466A-8CC3-E501E01A09FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BA061D0-DCCD-466A-8CC3-E501E01A09FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BA061D0-DCCD-466A-8CC3-E501E01A09FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C16DB53-85F1-4670-9081-0730826B01AA}
+	EndGlobalSection
+EndGlobal
